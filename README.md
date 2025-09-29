@@ -44,11 +44,13 @@ Copier le code
 ## 🔧 Installation & Setup
 
 ### 1. Clone the repo
+
 ```bash
 git clone https://github.com/your-username/linkedout.git
 cd linkedout
 ```
-2. Setup Backend
+
+### 2. Setup Backend
 
 ```bash
 cd backend
@@ -56,7 +58,9 @@ yarn install
 cp .env.example .env   # add your MongoDB URI, port, etc.
 yarn dev
 ```
-3. Setup Frontend
+
+### 3. Setup Frontend
+
 ```bash
 Copier le code
 cd frontend
